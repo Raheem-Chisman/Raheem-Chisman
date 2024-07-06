@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raheem-Chisman
+- 👋 Hi, I’m Raheem
 - 👀 I’m interested in Identity
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on MSAL
